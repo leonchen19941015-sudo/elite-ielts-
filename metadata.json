@@ -1,0 +1,7 @@
+{
+  "name": "Copy of IELTS Elite Coach - Band 8 Mastery",
+  "description": "A premium IELTS coaching platform powered by AI to help candidates bridge the gap from Band 6.5 to Band 8.0 through personalized modules and real-time feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
